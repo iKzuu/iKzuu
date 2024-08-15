@@ -1,12 +1,12 @@
-<img align="right" height="250" src="https://media1.tenor.com/m/V_2YJrhVXy0AAAAC/paimon-break-dance-paimon.gif"  />
+<img align="right" height="200" src="https://media1.tenor.com/m/V_2YJrhVXy0AAAAC/paimon-break-dance-paimon.gif"  />
 
 ###
 
-<img align="left" height="250" src="https://media.tenor.com/wKPE9qbj31UAAAAi/paimon-genshin-impact.gif"  />
+<img align="left" height="200" src="https://media.tenor.com/wKPE9qbj31UAAAAi/paimon-genshin-impact.gif"  />
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="45" alt="tailwindcss logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="45" alt="nextjs logo"  />
@@ -36,7 +36,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="45" alt="androidstudio logo"  />
@@ -70,10 +70,10 @@
 
 ###
 
-<img align="left" height="250" src="https://media1.tenor.com/m/kZYO5G4wNKwAAAAC/thaneko-paimon.gif"  />
+<img align="left" height="200" src="https://media1.tenor.com/m/kZYO5G4wNKwAAAAC/thaneko-paimon.gif"  />
 
 ###
 
-<img align="right" height="250" src="https://media.tenor.com/0TRIZ0S9LqIAAAAi/paimon-dance.gif"  />
+<img align="right" height="200" src="https://media.tenor.com/0TRIZ0S9LqIAAAAi/paimon-dance.gif"  />
 
 ###
