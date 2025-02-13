@@ -1,7 +1,9 @@
+<!--
 <div>
   <img align="right" height="200" src="https://media1.tenor.com/m/V_2YJrhVXy0AAAAC/paimon-break-dance-paimon.gif"  />
   <img align="left" height="200" src="https://media.tenor.com/wKPE9qbj31UAAAAi/paimon-genshin-impact.gif"  />
 </div>
+-->
 
 ###
 
@@ -65,7 +67,9 @@
 -->
 ###
 
+<!--
 <div>
   <img align="left" height="200" src="https://media1.tenor.com/m/kZYO5G4wNKwAAAAC/thaneko-paimon.gif"  />
   <img align="right" height="200" src="https://media.tenor.com/0TRIZ0S9LqIAAAAi/paimon-dance.gif"  />
 </div>
+-->
