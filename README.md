@@ -1,8 +1,14 @@
-<img align="right" height="200" src="https://media1.tenor.com/m/4CWc_MeKHToAAAAd/konosuba-satou.gif"  />
+<h1 align="left">Hi, I’am Anang Setiaji🍙</h1>
 
 ###
 
-<h1 align="left">Hi, I’am Anang Setiaji<br>Junior Frontend Developer &<br>Graphic Designer</h1>
+<h2 align="left">Junior Frontend Developer &<br>Graphic Designer🖥️💻</h2>
+
+###
+
+<div align="center">
+  <img height="200" src="https://media1.tenor.com/m/4CWc_MeKHToAAAAd/konosuba-satou.gif"  />
+</div>
 
 ###
 
