@@ -1,4 +1,4 @@
-<img align="right" height="200" src="https://tenor.com/view/konosuba-satou-power-anime-gif-16966709"  />
+<img align="right" height="200" src="https://media1.tenor.com/m/4CWc_MeKHToAAAAd/konosuba-satou.gif"  />
 
 ###
 
