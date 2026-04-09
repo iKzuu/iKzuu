@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">Junior Frontend Developer &<br>Graphic Designer🖥️💻</h4>
+<h4 align="center">Frontend Developer</h4>
 
 ###
 
