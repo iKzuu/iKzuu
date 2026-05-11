@@ -1,13 +1,13 @@
-<h3 align="center">Hi, I’am Anang Setiaji🍙</h3>
+<h1 align="left">Hi, I’am Anang Setiaji🍙</h1>
 
 ###
 
-<h4 align="center">Frontend Developer</h4>
+<h2 align="left">Frontend Developer</h2>
 
 ###
 
 <div align="center">
-  <img height="1000" src="https://media1.tenor.com/m/4CWc_MeKHToAAAAd/konosuba-satou.gif"  />
+  <img height="600" src="https://media1.tenor.com/m/4CWc_MeKHToAAAAd/konosuba-satou.gif"  />
 </div>
 
 ###
